@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dig117
+- 👋 Hi, I’m @NoedigSQ
 - 👀 I’m interested in learning Python and other languages
 - 🌱 I’m currently learning 
 - 😍 I’m looking to collaborate on cool things
